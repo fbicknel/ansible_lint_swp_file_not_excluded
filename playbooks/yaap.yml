@@ -1,0 +1,10 @@
+---
+
+- name: Yet Another Ansible Playbook
+  hosts: all
+
+  tasks:
+
+    - name: This is step one
+      ansible.builtin.debug:
+        msg: This is step one
