@@ -1,0 +1,5 @@
+# requirements.txt, but just the bare minimum
+# Everything else loaded in requirements.txt
+# are dependencies from these packages.
+ansible==8.5.0
+ansible-lint==6.21.1
